@@ -1,0 +1,37 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1550117391035">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="master_a-mestre.css" crc="3834688912" ref="active-projects:future-projects:index"/>
+    <file name="active-projects.css" crc="4051529444" ref="active-projects"/>
+    <file name="future-projects.css" crc="4181710557" ref="future-projects"/>
+    <file name="index.css" crc="3829996452" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:active-projects:future-projects"/>
+    <file name="museutils.js" crc="4136605575" ref="index:active-projects:future-projects"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:active-projects:future-projects"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:active-projects:future-projects"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:active-projects:future-projects"/>
+    <file name="webpro.js" crc="420478120" ref="active-projects"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="active-projects"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="active-projects"/>
+    <file name="touchswipe.js" crc="60020316" ref="active-projects"/>
+  </folder>
+  <folder name="images">
+    <file name="u114-4.png" crc="366329554" ref="index:active-projects:future-projects"/>
+    <file name="u121-4.png" crc="490028478" ref="index:active-projects:future-projects"/>
+    <file name="u127-4.png" crc="4075225043" ref="index:active-projects:future-projects"/>
+    <file name="sky.jpg" crc="65261214" ref="index:active-projects:future-projects"/>
+    <file name="u159-7.png" crc="358373864" ref="index"/>
+    <file name="u161-4.png" crc="3938065630" ref="index"/>
+    <file name="u173-4.png" crc="56850234" ref="index"/>
+    <file name="u174-5.png" crc="456496954" ref="index"/>
+    <file name="unknown (1).jpg" crc="4158156865" ref="active-projects"/>
+    <file name="loonia.jpg" crc="4225000621" ref="active-projects"/>
+    <file name="u188-6.png" crc="4064647674" ref="active-projects"/>
+    <file name="u227-6.png" crc="4151405295" ref="active-projects"/>
+  </folder>
+  <file name="index.html" crc="4282846083" mt="1550117324093" redirect="true"/>
+  <file name="active-projects.html" crc="493344303" mt="1550117307639" redirect="true"/>
+  <file name="future-projects.html" crc="4085611591" mt="1550117335574" redirect="true"/>
+</manifest>

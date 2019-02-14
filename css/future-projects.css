@@ -1,0 +1,154 @@
+.version.future_projects /* version checker */
+{
+	color: #0000F9;
+	background-color: #3FD6DD;
+}
+
+.html
+{
+	background-color: #464646;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 700px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #464646;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+}
+
+#menuu102
+{
+	z-index: 2;
+}
+
+#u110
+{
+	width: 385px;
+	min-height: 98px;
+	margin-right: -10000px;
+}
+
+#u111
+{
+	width: 385px;
+	padding-bottom: 67px;
+}
+
+#u111:hover
+{
+	margin: 0px;
+}
+
+#u111:active
+{
+	margin: 0px;
+}
+
+#u118
+{
+	width: 385px;
+	min-height: 98px;
+	margin-right: -10000px;
+	left: 387px;
+}
+
+#u119
+{
+	width: 385px;
+	padding-bottom: 67px;
+}
+
+#u111.MuseMenuActive,#u119:hover
+{
+	margin: 0px;
+}
+
+#u119:active
+{
+	margin: 0px;
+}
+
+#u114-4_clip,#u121-4_clip
+{
+	width: 385px;
+	height: 31px;
+}
+
+#u125
+{
+	width: 386px;
+	min-height: 98px;
+	margin-right: -10000px;
+	left: 774px;
+}
+
+#u126
+{
+	width: 386px;
+	padding-bottom: 67px;
+}
+
+#u119.MuseMenuActive,#u126:hover
+{
+	margin: 0px;
+}
+
+#u126:active
+{
+	margin: 0px;
+}
+
+#u126.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u127-4_clip
+{
+	width: 386px;
+	height: 31px;
+}
+
+#u114-4,#u121-4,#u127-4
+{
+	margin-right: -10000px;
+	top: 33px;
+}
+
+#menuu102-bw
+{
+	z-index: 2;
+	height: 98px;
+}
+
+#u134
+{
+	z-index: 21;
+	width: 1160px;
+	left: -100px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
